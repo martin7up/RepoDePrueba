@@ -22,10 +22,10 @@ public class Modelo1ExParcial2Lab2 {
 //        Paciente paciente2 = new Paciente("Algo resfriado.", LocalDate.parse("2001-12-31"), 
 //            doctor2, 0, "Mario", 22);
 //        
-        Hospital hospital = new Hospital("Perrando");
+//        Hospital hospital = new Hospital("Perrando");
 //        hospital.agregarPaciente(paciente1);
 //        hospital.agregarPaciente(paciente2);
-        hospital.eliminarPaciente("Paciente2");
+//        hospital.eliminarPaciente("Paciente2");
 //        hospital.mostrarListaPacientes();
 //        hospital.asignarDoctorCabecera("Doctor1", "Manuel");
 //        hospital.mostrarPacientesEntreFechas("1990-01-01", "2023-02-02");
